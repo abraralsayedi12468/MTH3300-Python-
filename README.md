@@ -11,13 +11,13 @@ Here is some examples for using markdown syntax.
 ~~Strikethrough~~ with leading trailing "~~" 
 
 This can create a mock code for python 
-'''.py
+```.py
 print('Hellow World')
 x = [1,2,3] 
 print(len(x))
-'''
+```
 
 for C 
-'''.c
+```.c
 print('Hello World') 
-'''
+```
