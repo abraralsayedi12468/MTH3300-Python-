@@ -7,8 +7,11 @@ Here is some examples for using markdown syntax.
 ### This iwll be a subsubsection 
 
 *Italic* with leading trailing '*'
+
 **Bold** with leading trailing '**'
+
 ~~Strikethrough~~ with leading trailing "~~" 
+
 
 This can create a mock code for python 
 ```.py
